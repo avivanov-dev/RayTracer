@@ -1,0 +1,60 @@
+﻿  main.cpp
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(63,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(81,35): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(95,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(106,30): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(110,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(111,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(112,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(113,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(114,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(123,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(139,50): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(139,75): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(140,48): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(140,73): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(141,52): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(142,49): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\geometry.h(67,47): warning C4244: =: преобразование "U" в "T", возможна потеря данных
+          with
+          [
+              U=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\AndreyPC\Source\Repos\RayTracer\RayTracer\main.cpp(87): message : выполняется компиляция ссылки на экземпляр шаблон функции "vec<3,float> operator *<3,float,double>(const vec<3,float> &,const U &)"
+          with
+          [
+              U=double
+          ]
+  RayTracer.vcxproj -> C:\Users\AndreyPC\Source\Repos\RayTracer\Debug\RayTracer.exe
